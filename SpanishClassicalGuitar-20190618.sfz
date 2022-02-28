@@ -1,0 +1,168 @@
+//+ Name: Spanish classical guitar
+//+ Date: 2019-06-18
+//+ URL: http://freepats.zenvoid.org/Guitar/acoustic-guitar.html
+
+<global>
+ //+ Instrument: Classical guitar
+ ampeg_release=1.5
+
+<group>
+ loop_mode=no_loop
+<region>
+ lokey=29 hikey=31
+ pitch_keycenter=31
+ sample=samples/G1.flac
+<region>
+ key=32
+ sample=samples/G#1.flac
+<region>
+ key=33
+ sample=samples/A1.flac
+<region>
+ key=34
+ sample=samples/A#1.flac
+<region>
+ key=35
+ sample=samples/B1.flac
+<region>
+ key=36
+ sample=samples/C2.flac
+<region>
+ key=37
+ sample=samples/C#2.flac
+<region>
+ key=38
+ sample=samples/D2.flac
+<region>
+ key=39
+ sample=samples/D#2.flac
+<region>
+ key=40
+ sample=samples/E2.flac
+<region>
+ key=41
+ sample=samples/F2.flac
+<region>
+ lokey=42
+ hikey=43
+ pitch_keycenter=43
+ sample=samples/G2.flac
+<region>
+ lokey=44
+ hikey=45
+ pitch_keycenter=45
+ sample=samples/A2.flac
+<region>
+ lokey=46
+ hikey=47
+ pitch_keycenter=47
+ sample=samples/B2.flac
+<region>
+ key=48
+ sample=samples/C3.flac
+<region>
+ lokey=49
+ hikey=50
+ pitch_keycenter=50
+ sample=samples/D3.flac
+<region>
+ lokey=51
+ hikey=52
+ pitch_keycenter=52
+ sample=samples/E3.flac
+<region>
+ key=53
+ sample=samples/F3.flac
+<region>
+ key=54
+ sample=samples/F#3.flac
+<region>
+ key=55
+ sample=samples/G3.flac
+<region>
+ key=56
+ sample=samples/G#3.flac
+<region>
+ key=57
+ sample=samples/A3.flac
+<region>
+ key=58
+ sample=samples/A#3.flac
+<region>
+ key=59
+ sample=samples/B3.flac
+<region>
+ key=60
+ sample=samples/C4.flac
+<region>
+ key=61
+ sample=samples/C#4.flac
+<region>
+ key=62
+ sample=samples/D4.flac
+<region>
+ key=63
+ sample=samples/D#4.flac
+<region>
+ key=64
+ sample=samples/E4.flac
+<region>
+ key=65
+ sample=samples/F4.flac
+<region>
+ key=66
+ sample=samples/F#4.flac
+<region>
+ key=67
+ sample=samples/G4.flac
+<region>
+ lokey=68
+ hikey=69
+ pitch_keycenter=69
+ sample=samples/A4.flac
+<region>
+ key=70
+ sample=samples/A#4.flac
+<region>
+ key=71
+ sample=samples/B4.flac
+<region>
+ key=72
+ sample=samples/C5.flac
+<region>
+ key=73
+ sample=samples/C#5.flac
+<region>
+ key=74
+ sample=samples/D5.flac
+<region>
+ key=75
+ sample=samples/D#5.flac
+<region>
+ key=76
+ sample=samples/E5.flac
+<region>
+ key=77
+ sample=samples/F5.flac
+<region>
+ key=78
+ sample=samples/F#5.flac
+<region>
+ key=79
+ sample=samples/G5.flac
+<region>
+ key=80
+ sample=samples/G#5.flac
+<region>
+ key=81
+ sample=samples/A5.flac
+<region>
+ key=82
+ sample=samples/A#5.flac
+<region>
+ key=83
+ sample=samples/B5.flac
+<region>
+ lokey=84 hikey=88
+ pitch_keycenter=84
+ sample=samples/C6.flac
