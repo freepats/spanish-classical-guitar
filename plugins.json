@@ -1,0 +1,41 @@
+{
+  "plugins": [
+    {
+      "author": "Freepats",
+      "homepage": "https://freepats.zenvoid.org",
+      "name": "Spanish Classical Guitar",
+      "description": "Spanish classical guitar with nylon strings, recorded with an AKG Perception 120 microphone.",
+      "tags": [
+        "Instrument",
+        "Guitar",
+        "Classical",
+        "sfz"
+      ],
+      "version": "1.0.0",
+      "id": "spanish-classical-guitar",
+      "date": "2019-06-18T07:00:00.000Z",
+      "files": {
+        "audio": {
+          "name": "spanish-classical-guitar.flac",
+          "size": 75338
+        },
+        "image": {
+          "name": "spanish-classical-guitar.jpg",
+          "size": 147385
+        },
+        "linux": {
+          "name": "spanish-classical-guitar.zip",
+          "size": 4944097
+        },
+        "mac": {
+          "name": "spanish-classical-guitar.zip",
+          "size": 4944097
+        },
+        "win": {
+          "name": "spanish-classical-guitar.zip",
+          "size": 4944097
+        }
+      }
+    }
+  ]
+}
