@@ -1,5 +1,4 @@
-Spanish classical guitar
-------------------------
+# Spanish classical guitar
 
 Version 2019-06-18
 
@@ -13,7 +12,6 @@ filters have been applied to reduce noise and improve sound.
 This sound bank, in several formats and qualities, is available on the
 FreePats project web pages:
 http://freepats.zenvoid.org/Guitar/acoustic-guitar.html
-
 
 Published under the terms of Creative Commons CC0 public domain dedication:
 https://creativecommons.org/publicdomain/zero/1.0/
