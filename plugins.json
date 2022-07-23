@@ -16,23 +16,23 @@
       "date": "2019-06-18T07:00:00.000Z",
       "files": {
         "audio": {
-          "name": "spanish-classical-guitar.flac",
+          "name": "SpanishClassicalGuitar-20190618.flac",
           "size": 75338
         },
         "image": {
-          "name": "spanish-classical-guitar.jpg",
+          "name": "SpanishClassicalGuitar-20190618.jpg",
           "size": 147385
         },
         "linux": {
-          "name": "spanish-classical-guitar.zip",
+          "name": "SpanishClassicalGuitar-20190618.zip",
           "size": 4944097
         },
         "mac": {
-          "name": "spanish-classical-guitar.zip",
+          "name": "SpanishClassicalGuitar-20190618.zip",
           "size": 4944097
         },
         "win": {
-          "name": "spanish-classical-guitar.zip",
+          "name": "SpanishClassicalGuitar-20190618.zip",
           "size": 4944097
         }
       }
