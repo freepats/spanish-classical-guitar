@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<global>
+	<opcode name="ampeg_release" value="1.5" />
+</global>
+<group>
+	<opcode name="loop_mode" value="no_loop" />
+</group>
+<region>
+	<opcode name="lokey" value="29" />
+	<opcode name="hikey" value="31" />
+	<opcode name="pitch_keycenter" value="31" />
+	<opcode name="sample" value="samples/G1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="32" />
+	<opcode name="sample" value="samples/G#1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="33" />
+	<opcode name="sample" value="samples/A1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="34" />
+	<opcode name="sample" value="samples/A#1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="35" />
+	<opcode name="sample" value="samples/B1.ogg" />
+</region>
+<region>
+	<opcode name="key" value="36" />
+	<opcode name="sample" value="samples/C2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="37" />
+	<opcode name="sample" value="samples/C#2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="38" />
+	<opcode name="sample" value="samples/D2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="39" />
+	<opcode name="sample" value="samples/D#2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="40" />
+	<opcode name="sample" value="samples/E2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="41" />
+	<opcode name="sample" value="samples/F2.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="42" />
+	<opcode name="hikey" value="43" />
+	<opcode name="pitch_keycenter" value="43" />
+	<opcode name="sample" value="samples/G2.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="44" />
+	<opcode name="hikey" value="45" />
+	<opcode name="pitch_keycenter" value="45" />
+	<opcode name="sample" value="samples/A2.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="46" />
+	<opcode name="hikey" value="47" />
+	<opcode name="pitch_keycenter" value="47" />
+	<opcode name="sample" value="samples/B2.ogg" />
+</region>
+<region>
+	<opcode name="key" value="48" />
+	<opcode name="sample" value="samples/C3.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="49" />
+	<opcode name="hikey" value="50" />
+	<opcode name="pitch_keycenter" value="50" />
+	<opcode name="sample" value="samples/D3.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="51" />
+	<opcode name="hikey" value="52" />
+	<opcode name="pitch_keycenter" value="52" />
+	<opcode name="sample" value="samples/E3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="53" />
+	<opcode name="sample" value="samples/F3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="54" />
+	<opcode name="sample" value="samples/F#3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="55" />
+	<opcode name="sample" value="samples/G3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="56" />
+	<opcode name="sample" value="samples/G#3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="57" />
+	<opcode name="sample" value="samples/A3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="58" />
+	<opcode name="sample" value="samples/A#3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="59" />
+	<opcode name="sample" value="samples/B3.ogg" />
+</region>
+<region>
+	<opcode name="key" value="60" />
+	<opcode name="sample" value="samples/C4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="61" />
+	<opcode name="sample" value="samples/C#4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="62" />
+	<opcode name="sample" value="samples/D4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="63" />
+	<opcode name="sample" value="samples/D#4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="64" />
+	<opcode name="sample" value="samples/E4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="65" />
+	<opcode name="sample" value="samples/F4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="66" />
+	<opcode name="sample" value="samples/F#4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="67" />
+	<opcode name="sample" value="samples/G4.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="68" />
+	<opcode name="hikey" value="69" />
+	<opcode name="pitch_keycenter" value="69" />
+	<opcode name="sample" value="samples/A4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="70" />
+	<opcode name="sample" value="samples/A#4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="71" />
+	<opcode name="sample" value="samples/B4.ogg" />
+</region>
+<region>
+	<opcode name="key" value="72" />
+	<opcode name="sample" value="samples/C5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="73" />
+	<opcode name="sample" value="samples/C#5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="74" />
+	<opcode name="sample" value="samples/D5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="75" />
+	<opcode name="sample" value="samples/D#5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="76" />
+	<opcode name="sample" value="samples/E5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="77" />
+	<opcode name="sample" value="samples/F5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="78" />
+	<opcode name="sample" value="samples/F#5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="79" />
+	<opcode name="sample" value="samples/G5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="80" />
+	<opcode name="sample" value="samples/G#5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="81" />
+	<opcode name="sample" value="samples/A5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="82" />
+	<opcode name="sample" value="samples/A#5.ogg" />
+</region>
+<region>
+	<opcode name="key" value="83" />
+	<opcode name="sample" value="samples/B5.ogg" />
+</region>
+<region>
+	<opcode name="lokey" value="84" />
+	<opcode name="hikey" value="88" />
+	<opcode name="pitch_keycenter" value="84" />
+	<opcode name="sample" value="samples/C6.ogg" />
+</region>
